@@ -4,5 +4,6 @@ you can also optimize by annoy and deploay it t AWS S3 by deploying data images 
 
 demo :
 
-![Screenshot 2025-01-28 112658](https://github.com/user-attachments/assets/ab2b1c60-e843-4521-a1b0-835eddedfd53)
-![Screenshot 2025-01-28 112650](https://github.com/user-attachments/assets/0a2a1953-8c5b-468f-8b64-565f8114b3f2)
+![Screenshot 2025-01-28 112650](https://github.com/user-attachments/assets/6bc580f6-dcbf-4a1f-8382-e2dfae955037)
+
+![Screenshot 2025-01-28 112658](https://github.com/user-attachments/assets/b25bc546-8e9b-4714-a10e-28c03a8160a3)
