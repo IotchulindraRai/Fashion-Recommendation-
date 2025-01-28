@@ -6,4 +6,6 @@ demo :
 
 ![Screenshot 2025-01-28 112650](https://github.com/user-attachments/assets/6bc580f6-dcbf-4a1f-8382-e2dfae955037)
 
+**upload preferencxe cloth and you will get related fashion clothes**
+
 ![Screenshot 2025-01-28 112658](https://github.com/user-attachments/assets/b25bc546-8e9b-4714-a10e-28c03a8160a3)
